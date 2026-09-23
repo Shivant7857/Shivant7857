@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Shivant's Header Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Shivant7857/Shivant7857/main/assets/header.svg" alt="Shivant's Header Banner" width="100%">
 </p>
 
 <p align="center">
